@@ -1,0 +1,20 @@
+body{
+    background-color:#2f4f4f;
+    color: darkturquoise;
+}
+.heading{
+    width: 80%;
+    font-size: large;
+}
+#camera{
+    border: 2px solid palegreen;
+    width: 350px;
+    height: 300px;
+}
+
+#menu:hover{
+    background-color: aqua !important;
+font-weight: bolder;
+font-style: oblique; 
+}
+
